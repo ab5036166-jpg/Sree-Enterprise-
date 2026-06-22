@@ -1,0 +1,1 @@
+import tailwindcss from 'tailwindcss';\nimport autoprefixer from 'autoprefixer';\n\nexport default {\n  plugins: [tailwindcss, autoprefixer],\n};\n
